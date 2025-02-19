@@ -62,3 +62,18 @@ Create a new employee named “Jane Doe” (same password) with the username of 
 
 ![image](https://github.com/user-attachments/assets/ab473e6b-02e0-4a42-8fb4-ed2edf13cea8)
 
+
+<p>
+Login to Client-1 as the original local admin (labuser) and join it to the domain which will make it restart. Login to the Domain Controller and verify Client-1 shows up in Active Directory Users and Computers. 
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/d9be784a-09d6-43d3-8bd1-07527356fba6)
+
+
+<p>
+ Lastly, Create a new OU named “_CLIENTS” and drag Client-1 into there. With this, we completed all the steps for deploying active directory and joining the client to the domain.
+
+</p>
+<br />
+
