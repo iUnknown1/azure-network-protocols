@@ -23,8 +23,6 @@ In this section of my project, I install Active Directory on the domain controll
 - Install Active Directory
 - Create a Domain Admin user within the domain
 - Join Client-1 to your domain (mydomain.com)
-- Setup Remote Desktop for non-administrative users on Client-1
-- Create a bunch of additional users and attempt to log into client-1 with one of the users
 
 
 <h2>Deployment and Configuration Steps</h2>
